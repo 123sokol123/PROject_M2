@@ -1,0 +1,17 @@
+﻿<Window x:Class="QuadrupoleFieldSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Визуализация поля квадруполя (WPF)" 
+        Width="800" Height="800">
+    <Grid>
+        <!-- Холст для рисования -->
+        <Canvas x:Name="FieldCanvas" Background="White" />
+
+        <!-- Панель управления (опционально) -->
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Обновить" Click="RedrawField" Margin="5" />
+            <TextBlock Text="Шаг силовых линий:" Margin="5,10,5,0"/>
+            <Slider x:Name="StepSlider" Minimum="1" Maximum="20" Value="5" Margin="5" />
+        </StackPanel>
+    </Grid>
+</Window>

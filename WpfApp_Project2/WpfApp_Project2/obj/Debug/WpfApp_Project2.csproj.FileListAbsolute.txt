@@ -1,0 +1,14 @@
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\bin\Debug\WpfApp_Project2.exe.config
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\bin\Debug\WpfApp_Project2.exe
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\bin\Debug\WpfApp_Project2.pdb
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2.csproj.AssemblyReference.cache
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\MainWindow.baml
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\MainWindow.g.cs
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\App.g.cs
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2_MarkupCompile.cache
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2.g.resources
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2.Properties.Resources.resources
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2.csproj.GenerateResource.cache
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2.csproj.CoreCompileInputs.cache
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2.exe
+C:\Users\vsoko\source\repos\WpfApp_Project2\WpfApp_Project2\obj\Debug\WpfApp_Project2.pdb
